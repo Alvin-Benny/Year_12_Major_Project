@@ -7,8 +7,3 @@
  The python files are the source code, but since the application relies on various
  libraries, the best way to use the application is by opening the executable
  located in the ZIP file.
-
-
-Copyright © Alvin Benny - All Rights Reserved. 
-Unauthorised copying and distribution of the contents of this folder via any 
-medium is strictly prohibited.
